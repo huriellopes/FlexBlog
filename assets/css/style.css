@@ -479,7 +479,7 @@ img {
   .menu-all.on .menu-toggle {
     position: absolute;
     right: 0;
-    top: 85px;
+    top: 20px;
   }
 
   .menu-all.on .menu-toggle .one {
@@ -519,7 +519,7 @@ img {
   .superinfo-bg {
     display: none;
   }
-  
+
   .menu-nav {
     display: none;
   }
@@ -561,7 +561,7 @@ img {
   .menu-all.on .menu-toggle {
     position: absolute;
     right: 0;
-    top: 85px;
+    top: 20px;
   }
 
   .menu-all.on .menu-toggle .one {
