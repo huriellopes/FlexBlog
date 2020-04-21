@@ -1,0 +1,23 @@
+{
+  "name": "Flexblog",
+  "version": "1.0.0",
+  "description": "Curso da origamid sobre FlexBox",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/huriellopes/FlexBlog.git"
+  },
+  "keywords": ["flexbox","css3","html5","javascript"],
+  "author": {
+    "name": "Huriel Lopes",
+    "email": "huriellopes1996@gmail.com"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huriellopes/FlexBlog/issues"
+  },
+  "homepage": "https://github.com/huriellopes/FlexBlog"
+}
