@@ -431,6 +431,9 @@ img {
 }
 @media (max-width: 768px) {}
 @media (max-width: 600px) {
+  .menu-logo a {
+    font-size: 2em;
+  }
   .menu-nav {
     display: none;
   }
