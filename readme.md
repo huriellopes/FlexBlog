@@ -6,3 +6,7 @@
 - Menu Responsivo
 - Navegação do menu com scroll suave
 - Menu com fixed top com apenas css
+
+## Credits
+
+- Origamid
