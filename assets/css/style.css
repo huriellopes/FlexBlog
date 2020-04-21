@@ -431,6 +431,10 @@ img {
 }
 @media (max-width: 768px) {}
 @media (max-width: 600px) {
+  .superinfo-bg {
+    display: none;
+  }
+  
   .menu-logo a {
     font-size: 2em;
   }
@@ -512,6 +516,10 @@ img {
   }
 }
 @media (max-width: 540px) {
+  .superinfo-bg {
+    display: none;
+  }
+  
   .menu-nav {
     display: none;
   }
